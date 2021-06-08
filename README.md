@@ -214,3 +214,9 @@ hamming loss:  0.0015507856629351957
 4. 调整模型参数，运行model_train.py进行模型训练
 5. 运行model_evaluate.py进行模型评估
 6. 运行model_predict.py对新文本进行评估
+
+
+执行的情况：
+模型训练：一天多
+执行预测：3秒1条
+
